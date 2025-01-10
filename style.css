@@ -64,6 +64,11 @@ body {
     list-style: none;
     margin-left: 70px;
 }
+.list5{
+    display: flex;
+    list-style: none;
+    margin-left: 70px;
+}
 
 a:link {
     color: whitesmoke;
